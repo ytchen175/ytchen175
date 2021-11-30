@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @ytchen175, a data engineer 🙋. 
+- 👋 Hi, I’m [@ytchen175](https://github.com/ytchen175), a data engineer 🙋. 
 - 💻 I use these programming language...
   + Python 🐍
     * Machine Learning (scikit-learn, xgboost, catboost, etc.)
     * Deep Learning (tensorflow, pytorch)
     * Web Crawler (requests, aiohttp, selenium, lxml, etc.)
-    * Frontend ([streamlit](https://github.com/ytchen175/Titanic_test), [flask](https://github.com/ytchen175/credit_card_demo_flask)) - beginner level
+    * Frontend (streamlit, flask) - beginner level
     * Concurrency Programming (multiprocessing, asyncio) 
     * OOP concepts
   + SQL 👩‍💻 - group by, join, union, window function
@@ -17,7 +17,7 @@
 - 💼 I have some experience in **Data** related fields...
   + Data Engineering 🛠️ - Apache Airflow, Apache Spark, SSIS
   + Machine Learning 🤖 - Classification, Regression, Time Series, Feature Engineering, Feature Selection, Imbalanced Data 
-  + Deep Learning 🧠 - [Image Recognition](https://github.com/ytchen175/product-detection), [Sentiment Analysis](https://github.com/ytchen175/aidea_sentiment_analysis), Transfer Learning & Fine-tuning
+  + Deep Learning 🧠 - Image Recognition, Sentiment Analysis, Transfer Learning & Fine-tuning
   + Web Crawler 🕷 - Dynamic Crawler, Asynchronous Crawler
   + Data Visualization 📊 - Power BI, Tableau
   + Cloud Services ☁️ - GCP
@@ -25,7 +25,7 @@
   + DevOps 🐳 - Git, Docker, Heroku
 - 🛎How to reach me  
   + 🤝 [LinkedIn](https://www.linkedin.com/in/yu-tung-chen-311a5b1a8/)
-  + 💌 Email - yt.chen175@gmail.com
+  + 💌 yt.chen175@gmail.com
 
 <!---
 ytchen175/ytchen175 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
