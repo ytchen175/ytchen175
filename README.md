@@ -1,4 +1,8 @@
-- 👋 Hi, I’m [@ytchen175](https://github.com/ytchen175), a data engineer 🙋. 
+<div align="center">
+  <h3> Hi, I’m ytchen175 👋</h3>
+  <img src="https://komarev.com/ghpvc/?username=ytchen175&color=red&style=plastic&label=PROFILE+VIEWS">
+</div>
+
 - 💻 I use these programming language...
   + Python 🐍
     * Machine Learning (scikit-learn, xgboost, catboost, etc.)
@@ -25,7 +29,7 @@
   + DevOps 🐳 - Git, Docker, Heroku
 - 🛎How to reach me  
   + 🤝 [LinkedIn](https://www.linkedin.com/in/yu-tung-chen-311a5b1a8/)
-  + 💌 yt.chen175@gmail.com
+  + 💌 [Email](mailto:yt.chen175@gmail.com)
 
 <!---
 ytchen175/ytchen175 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
